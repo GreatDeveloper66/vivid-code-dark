@@ -6,6 +6,12 @@
   "engines": {
     "vscode": "^1.99.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GreatDeveloper66/vivid-code-dark.git"
+  },
+  "publisher": "GreatDeveloper66",
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
