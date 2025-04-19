@@ -1,0 +1,21 @@
+{
+  "name": "vivid-code-dark",
+  "displayName": "Vivid-Code-Dark",
+  "description": "a theme that emphasizes contrast that makes code pop.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vivid Code Dark Style",
+        "uiTheme": "hc-black",
+        "path": "./themes/Vivid Code Dark Style-color-theme.json"
+      }
+    ]
+  }
+}
